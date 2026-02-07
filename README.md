@@ -1,7 +1,10 @@
-- Hi, I’m @luisatgitty
-- I’m interested in lots of things such as outdoor camping.
-- I’m looking to collaborate on different various projects to learn.
-- Pronouns: 'he/him' nothing more
+# Hi, I’m @luisatgitty 👋 
+
+  - 4th-year Information Systems student at CARD MRI Development Institute
+  - Interested in tech, web design, and learning new skills
+  - I also enjoy outdoor camping and exploring new experiences
+  - Looking to collaborate on projects that help me grow and contribute
+  - Skills: Java, Python, CSS, database management, project documentation
 
 <!---
 luisatgitty/luisatgitty is a special  repository because its `README.md` (this file) appears on your GitHub profile.
