@@ -1,7 +1,6 @@
 - Hi, I’m @luisatgitty
 - I’m interested in lots of things such as outdoor camping.
 - I’m looking to collaborate on different various projects to learn.
-- AI is my companion
 - Pronouns: 'he/him' nothing more
 
 <!---
