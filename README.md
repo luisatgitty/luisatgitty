@@ -4,7 +4,7 @@
   - Interested in tech, web design, and learning new skills
   - I also enjoy outdoor camping and exploring new experiences
   - Looking to collaborate on projects that help me grow and contribute
-  - Skills: Java, Python, CSS, Project documentation
+  - Skills: JavaScript, Python, CSS, Web design, Quality Assurance, and Project documentation so far
 
 <!---
 luisatgitty/luisatgitty is a special  repository because its `README.md` (this file) appears on your GitHub profile.
