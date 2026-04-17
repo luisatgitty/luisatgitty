@@ -1,5 +1,5 @@
 #Luis Tubig (@luisatgitty)
--BS Information Systems|
+BS Information Systems|
 Passionate about technology, web design, and continuous learning | Looking to collaborate on projects that foster growth and meaningful contribution.| 
 - Programming & Scripting: JavaScript, Python  
 - Web Development: HTML, CSS, Responsive Web Design  
